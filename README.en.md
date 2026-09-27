@@ -1,6 +1,10 @@
 <p align="center"><a href="README.md">Polski</a> | <b>English</b></p>
 
+https://github.com/user-attachments/assets/2b509b1e-44b4-4485-b2d9-230c553a6638
+
+<!-- Previous hero (backup, image):
 <p align="center"><img src="assets/hero.png" alt="AI Audience Groups" width="700"/></p>
+-->
 
 <h1 align="center">AI Audience Groups</h1>
 
